@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex  
+# 👋 Hi, I’m Alex  
   
 Welcome to my GitHub profile! I'm currently a trainee software and data engineer @Sigmalabs.
 Here's a little bit about me:
