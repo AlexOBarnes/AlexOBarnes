@@ -13,7 +13,8 @@ Here's a little bit about me:
   - Dissertation: Conducted meta-analysis of data regarding protein folding kinetics throughout lifespan studies using R  
   - Data science: Created a stroke risk machine learning model in python
   - Systems Biology: Modelled intracellular biochemical reactions using COPASI  
-- Achievements:  
+- Achievements:
+  - Degree Award: **First Class Honours**     
   - Durham University Bioscience Literature Review prize (2023) 
   - Durham University Bioscience MBiol Prize (2023)
 
@@ -33,7 +34,33 @@ Here's a little bit about me:
 - Example Projects:  
   - Created a python pipeline to extract,transform and load data onto a postgreSQL database.
   - Created a RESTful API using flask for flight and weather data.
-  - Made a web scraper to get aggregate news stories.   
+  - Made a web scraper to get aggregate news stories.  
+
+### [Guest Researcher] - [Chemical Biology Group - Leibniz-Forschungsinstitut für Molekulare Pharmakologie]  
+*June, 2023 – September, 2023 *
+
+- Skills:
+  - Coding: R,
+  - Visualisation: ggplot, R Markdown;
+  - Data processing and analysis: dyplr, tidyr, readr;   
+
+- Project Overview:  
+  - Investigated post-translational modifications, poly- and pyro-phosphorylation, in the neglected tropical disease leishmaniasis.
+  - Processed Q-TOF LC-MS/MS and michaelis-menten kinetic experiment data using R.
+  - Presented data using ggplot.
+
+### [Intern Researcher] - [Biomolecular Interactions Group - Durham University]  
+ *May, 2022 – July, 2023 *
+
+- Skills:
+  - Coding: R,
+  - Visualisation: ggplot, R Markdown;
+  - Data processing and analysis: dyplr, tidyr, readr;   
+
+- Project Overview:  
+  - Investigated intracellular signalling in the neglected tropical disease leishmaniasis.
+  - Processed michaelis-menten kinetic experiment data using R.
+  - Presented data using ggplot. 
 ---
 
 ## 🌱 What I’m Learning
