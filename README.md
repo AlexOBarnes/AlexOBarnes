@@ -37,10 +37,10 @@ Here's a little bit about me:
   - Made a web scraper to get aggregate news stories.  
 
 ### [Guest Researcher] - [Chemical Biology Group - Leibniz-Forschungsinstitut für Molekulare Pharmakologie]  
-*June, 2023 – September, 2023 *
+*June, 2023 – September, 2023*
 
 - Skills:
-  - Coding: R,
+  - Coding: R;
   - Visualisation: ggplot, R Markdown;
   - Data processing and analysis: dyplr, tidyr, readr;   
 
@@ -50,10 +50,10 @@ Here's a little bit about me:
   - Presented data using ggplot.
 
 ### [Intern Researcher] - [Biomolecular Interactions Group - Durham University]  
- *May, 2022 – July, 2023 *
+ *May, 2022 – July, 2023*
 
 - Skills:
-  - Coding: R,
+  - Coding: R;
   - Visualisation: ggplot, R Markdown;
   - Data processing and analysis: dyplr, tidyr, readr;   
 
