@@ -20,21 +20,22 @@ Here's a little bit about me:
 
 ---
 ## 💼 Work Experience
-### [Trainee Software & Data Engineer] - [SigmaLabs]  
+### [Junior Software & Data Engineer] - [SigmaLabs]  
 *July, 2024 – Present*
 
-- Skills:
-  - Coding: Python, OOP, HTML/CSS, Clean code, TDD, Git;
-  - Backend: Flask, PostgreSQL, SQLite, 3NF, API development, security fundamentals;
-  - Data Eng: Kafka, Spark, ETL pipelines, stream processing, queues data cleaning;
-  - Visualisation: Matplotlib, Plotly, Dashboarding using Dash, Tableau;
-  - ML: NLP, Fuzzy matching, NER;
-  - Cloud: Docker, AWS, EC2, lambda, Terraform    
+Sigma Labs: high-performance technology consultants across software, data and platform engineering.
 
-- Example Projects:  
-  - Created a python pipeline to extract,transform and load data onto a postgreSQL database.
-  - Created a RESTful API using flask for flight and weather data.
-  - Made a web scraper to get aggregate news stories.  
+▶ Software & Data Engineering Programme: experience coding individually and as part of an agile team:
+  - Coding: Python, OOP, HTML/CSS, Clean Code, TDD, Git;
+  - Backend: Flask, PostgreSQL, SQLite, 3NF, API development, security fundamentals;
+  - Data Eng: Kafka, Spark, ETL pipelines, stream processing, queues, data cleaning;
+  - Visualisation: Matplotlib, Plotly, Dashboarding using Dash and Streamlit, Tableau;
+  - ML: NLP, Fuzzy Matching, NER;
+  - Cloud: Docker, AWS, EC2, Lambda, Terraform;
+
+▶ Professional High Performance Delivery: Problem solving & decision making frameworks (incl. Agile), business fundamentals & effective communication;
+
+▶ Experience delivering four industry-standard technical case studies involving ETL, data analysis, machine learning, cloud and data visualisation
 
 ### [Guest Researcher] - [Chemical Biology Group - Leibniz-Forschungsinstitut für Molekulare Pharmakologie]  
 *June, 2023 – September, 2023*
@@ -65,9 +66,9 @@ Here's a little bit about me:
 
 ## 🌱 What I’m Learning
 
-- Exploring Kafka and AWS event bridge for live ETL pipeline development.
-- Learning more HTML/CSS and JS.
-- Developing my skills with NLP and ML for data science uses.
+- Exploring dbt for ELT data pipeline project management.
+- Diving into Backend development in Go.
+- Reading about Statisitics and ML for data science uses.
 
 ---
 
